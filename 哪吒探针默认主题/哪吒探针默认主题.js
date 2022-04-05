@@ -1,6 +1,4 @@
-< script >
-
-    window.onload = function() {
+window.onload = function() {
         var avatar = document.querySelector(".item img")
 
         var footer = document.querySelector("div.is-size-7")
@@ -10,4 +8,3 @@
         avatar.src = "LOGO路径"
         avatar.style.visibility = "visible"
     } 
-</script>
