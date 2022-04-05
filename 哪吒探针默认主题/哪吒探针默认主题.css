@@ -1,4 +1,4 @@
-<style>
+
 /* 屏幕适配 */
 
 @media only screen and (min-width: 1200px) {
@@ -326,5 +326,3 @@ i.arrow.alternate.circle.up.outline.icon {
     font-weight: bold !important;
     background-color: #fafafaa3 !important;
 }
-
-<style>
